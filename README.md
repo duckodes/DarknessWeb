@@ -39,7 +39,7 @@ DarknessWeb 並不是要取代你的主力瀏覽器，而是成為你在特定�
 
 > *正式版本V1.0.0，執行 setup.exe 即可安裝！*
 
-## 下載所有版本
+## 下載版本
 [all version](https://github.com/duckodes/DarknessWeb/archive/refs/heads/main.zip)
 
 ## 開發者筆記
